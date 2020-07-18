@@ -23,6 +23,11 @@ manim.sublime-workspace
 build/
 dist/
 manim.egg-info/
-
+videos/*
 primes.py
 /media_dir.txt
+Tex/*.aux
+Tex/*.dvi
+Tex/*.log
+Tex/*.tex
+Tex/*.svg
